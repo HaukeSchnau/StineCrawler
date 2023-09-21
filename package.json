@@ -1,0 +1,16 @@
+{
+  "name": "stine-crawler",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "prettier": "^3.0.3",
+    "puppeteer": "^21.3.1"
+  }
+}
