@@ -1,0 +1,3534 @@
+[
+  {
+    "name": "Aktuelle Themen der Theoretischen Informatik (WiSe 23/24)",
+    "shortName": "InfB-ATI",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 45,
+            "start": 1005
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 135,
+            "start": 855
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rechnernetze (WiSe 23/24)",
+    "shortName": "InfB-CN",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Einführung in das Maschinelle Lernen (WiSe 23/24)",
+    "shortName": "InfB-EML",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grundlagen von Datenbanken (WiSe 23/24)",
+    "shortName": "InfB-GDB",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-24T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-16T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-30T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-24T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-16T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-30T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-24T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-16T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-30T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-24T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-16T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-30T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-24T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-16T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-30T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-24T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-16T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-30T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-26T22:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-09T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-23T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-02-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-26T22:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-09T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-23T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-02-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-26T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-09T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-23T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-02-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-26T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-09T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-23T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-02-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-26T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-09T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-23T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-02-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-26T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-09T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-23T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-02-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-10-18T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 495
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hochleistungsrechnen (WiSe 23/24)",
+    "shortName": "InfB-HLR",
+    "credits": 9,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-18T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Interaktive Computergrafik (WiSe 23/24)",
+    "shortName": "InfB-ICG",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 855
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Modellierung und Analyse komplexer Systeme (WiSe 23/24)",
+    "shortName": "InfB-MAKS",
+    "credits": 9,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-18T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-10-25T22:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-01T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-11-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-06T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-13T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2023-12-20T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-24T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 735
+          },
+          {
+            "date": "2024-01-31T23:00:00.000Z",
+            "duration": 90,
+            "start": 615
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Projektmanagement (WiSe 23/24)",
+    "shortName": "InfB-PM",
+    "credits": 3,
+    "events": [
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 90,
+            "start": 975
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Datenschutz in der Informationsgesellschaft (WiSe 23/24)",
+    "shortName": "InfB-DIG",
+    "credits": 3,
+    "events": [
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 195,
+            "start": 510
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stochastik 2 für Studierende der Informatik (WiSe 23/24)",
+    "shortName": "MATH-Inf/STO2",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 960
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 120,
+            "start": 600
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Optimierung für Studierende der Informatik (WiSe 23/24)",
+    "shortName": "MATH-Inf/OPT",
+    "credits": 6,
+    "events": [
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 60,
+            "start": 600
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-15T22:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-10-22T22:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-10-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-05T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-12T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-19T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-11-26T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-12-03T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-12-10T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2023-12-17T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-07T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-14T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-21T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          },
+          {
+            "date": "2024-01-28T23:00:00.000Z",
+            "duration": 60,
+            "start": 660
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 480
+          }
+        ]
+      },
+      {
+        "type": "exercise",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 60,
+            "start": 540
+          }
+        ]
+      },
+      {
+        "type": "lecture",
+        "dates": [
+          {
+            "date": "2023-10-16T22:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-10-23T22:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-11-06T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-11-13T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-11-20T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-11-27T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-12-04T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-12-11T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2023-12-18T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2024-01-08T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2024-01-15T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2024-01-22T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          },
+          {
+            "date": "2024-01-29T23:00:00.000Z",
+            "duration": 120,
+            "start": 840
+          }
+        ]
+      }
+    ]
+  }
+]
